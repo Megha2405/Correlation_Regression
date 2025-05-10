@@ -30,12 +30,11 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Program :
-
-
-
-```python
-#Developed by : DHARSHINI S N
-#Register No : 212224230062
+```
+212224230157
+Megha S
+```
+```
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -73,12 +72,7 @@ plt.show()
 ```
 
 # Output 
-![image](https://github.com/gauthamkrishna7/Correlation_Regression/assets/141175025/ee5f0956-ef5c-48f7-863d-c802343a1db0)
-
-
-
-
-![image](https://github.com/gauthamkrishna7/Correlation_Regression/assets/141175025/b7324d12-f1bb-409c-b078-632f9db660c7)
+![alt text](image.png)
 
 
 
